@@ -1,0 +1,11 @@
+OrderID,CustomerID,OrderDate,Country,Category,Quantity,UnitPrice,Discount,Email
+2001,C001,2025-07-01,USA,Electronics,1,799.99,0.10,alice@gmail.com
+2002,C002,2025-07-02,Canada,Fashion,3,49.99,0.00,bob@yahoo.com
+2003,C003,2025-07-02,USA,Home,2,129.50,0.05,charlie@gmail.com
+2004,C004,2025-07-03,UK,Electronics,1,999.00,0.15,dave@outlook.com
+2005,C001,2025-07-03,USA,Books,5,15.00,0.00,eva@gmail.com
+2006,C005,2025-07-04,India,Fashion,2,39.99,0.20,frank@yahoo.com
+2007,C006,2025-07-04,USA,Home,1,249.99,0.00,grace@company.com
+2008,C007,2025-07-05,UK,Electronics,2,499.50,0.05,helen@outlook.com
+2009,C008,2025-07-05,USA,Fashion,4,29.99,0.10,ian@gmail.com
+2010,C009,2025-07-06,Canada,Books,7,12.99,0.00,jane@yahoo.com

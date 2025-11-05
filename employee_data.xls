@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Age,Experience,Salary,Bonus,PerformanceScore,Email
+101,Alice,IT,29,5,75000,5000,88,alice@gmail.com
+102,Bob,Finance,35,10,88000,7000,92,bob@yahoo.com
+103,Charlie,HR,28,4,65000,4000,85,charlie@gmail.com
+104,David,IT,42,15,120000,10000,95,david@outlook.com
+105,Eva,Marketing,31,7,78000,6000,90,eva@gmail.com
+106,Frank,Finance,45,20,135000,12000,97,frank@yahoo.com
+107,Grace,HR,26,3,60000,3500,80,grace@company.com
+108,Helen,Marketing,39,12,98000,8000,93,helen@outlook.com
+109,Ian,IT,33,8,85000,6500,89,ian@gmail.com
+110,Jane,Finance,30,6,79000,5500,87,jane@yahoo.com
